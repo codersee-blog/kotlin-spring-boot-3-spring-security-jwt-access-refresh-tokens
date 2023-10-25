@@ -2,7 +2,7 @@ package com.codersee.jwtauth.service
 
 import com.codersee.jwtauth.controller.auth.AuthenticationRequest
 import com.codersee.jwtauth.controller.auth.AuthenticationResponse
-import com.codersee.jwtauth.controller.config.JwtProperties
+import com.codersee.jwtauth.config.JwtProperties
 import com.codersee.jwtauth.repository.RefreshTokenRepository
 import org.springframework.security.authentication.AuthenticationManager
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken

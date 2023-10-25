@@ -1,4 +1,4 @@
-package com.codersee.jwtauth.controller.config
+package com.codersee.jwtauth.config
 
 import com.codersee.jwtauth.service.CustomUserDetailsService
 import com.codersee.jwtauth.service.TokenService

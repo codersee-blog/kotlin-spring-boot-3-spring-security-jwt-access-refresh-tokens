@@ -1,4 +1,4 @@
-package com.codersee.jwtauth.controller.config
+package com.codersee.jwtauth.config
 
 import org.springframework.boot.context.properties.ConfigurationProperties
 

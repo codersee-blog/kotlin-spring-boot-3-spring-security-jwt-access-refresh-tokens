@@ -1,6 +1,6 @@
 package com.codersee.jwtauth.service
 
-import com.codersee.jwtauth.controller.config.JwtProperties
+import com.codersee.jwtauth.config.JwtProperties
 import io.jsonwebtoken.Claims
 import io.jsonwebtoken.Jwts
 import io.jsonwebtoken.security.Keys
